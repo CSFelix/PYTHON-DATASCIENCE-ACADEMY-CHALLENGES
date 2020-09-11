@@ -53,3 +53,12 @@ jupyter notebook
 > Challenge 4: Selection Sort for numbers
 
 > Challenge 5: Analyze Consumer Buying Behavior
+
+----
+### `✉️ Contact ✉️`
+
+> **Email:** `gabrielfelix08@outlook.com`
+
+> **Linkedin:** `---`
+
+> **Instagram:** `---`
